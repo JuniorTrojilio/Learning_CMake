@@ -1,0 +1,15 @@
+C:/Users/osmar/OneDrive/Projects/Learning_CMake/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/osmar/OneDrive/Projects/Learning_CMake/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/osmar/OneDrive/Projects/Learning_CMake/out/build/x64-Debug/Create_Executable/CMakeFiles/Create_Executable.dir
+C:/Users/osmar/OneDrive/Projects/Learning_CMake/out/build/x64-Debug/Create_Executable/CMakeFiles/edit_cache.dir
+C:/Users/osmar/OneDrive/Projects/Learning_CMake/out/build/x64-Debug/Create_Executable/CMakeFiles/rebuild_cache.dir
+C:/Users/osmar/OneDrive/Projects/Learning_CMake/out/build/x64-Debug/Create_a_exe_and_lib/CMakeFiles/arithmetic.dir
+C:/Users/osmar/OneDrive/Projects/Learning_CMake/out/build/x64-Debug/Create_a_exe_and_lib/CMakeFiles/Create_a_exe_and_lib.dir
+C:/Users/osmar/OneDrive/Projects/Learning_CMake/out/build/x64-Debug/Create_a_exe_and_lib/CMakeFiles/edit_cache.dir
+C:/Users/osmar/OneDrive/Projects/Learning_CMake/out/build/x64-Debug/Create_a_exe_and_lib/CMakeFiles/rebuild_cache.dir
+C:/Users/osmar/OneDrive/Projects/Learning_CMake/out/build/x64-Debug/Conditional_Construct/CMakeFiles/Conditional_Construct.dir
+C:/Users/osmar/OneDrive/Projects/Learning_CMake/out/build/x64-Debug/Conditional_Construct/CMakeFiles/edit_cache.dir
+C:/Users/osmar/OneDrive/Projects/Learning_CMake/out/build/x64-Debug/Conditional_Construct/CMakeFiles/rebuild_cache.dir
+C:/Users/osmar/OneDrive/Projects/Learning_CMake/out/build/x64-Debug/Using_Option/CMakeFiles/Using_Option.dir
+C:/Users/osmar/OneDrive/Projects/Learning_CMake/out/build/x64-Debug/Using_Option/CMakeFiles/edit_cache.dir
+C:/Users/osmar/OneDrive/Projects/Learning_CMake/out/build/x64-Debug/Using_Option/CMakeFiles/rebuild_cache.dir

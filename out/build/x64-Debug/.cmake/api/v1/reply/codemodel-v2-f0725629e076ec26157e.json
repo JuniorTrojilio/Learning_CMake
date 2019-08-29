@@ -1,0 +1,199 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Create_Executable",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "Create_Executable",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "Create_a_exe_and_lib",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "Create_a_exe_and_lib",
+					"targetIndexes" : 
+					[
+						2,
+						4
+					]
+				},
+				{
+					"build" : "Conditional_Construct",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "Conditional_Construct",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Using_Option",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "Using_Option",
+					"targetIndexes" : 
+					[
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Learning_CMake"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "Create_Executable",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "Create_a_exe_and_lib",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2,
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "Conditional_Construct",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "Using_Option",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "Conditional_Construct::@901738b44850f9d97f10",
+					"jsonFile" : "target-Conditional_Construct-Debug-bcba6a2ddeab1dedeede.json",
+					"name" : "Conditional_Construct",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Create_Executable::@8a2d310202c6e3cd6392",
+					"jsonFile" : "target-Create_Executable-Debug-e85fe434182df7da7798.json",
+					"name" : "Create_Executable",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Create_a_exe_and_lib::@5ecef1a49c8ab9b1b6b0",
+					"jsonFile" : "target-Create_a_exe_and_lib-Debug-5a2610687a32d26a4b82.json",
+					"name" : "Create_a_exe_and_lib",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "Using_Option::@7f7603c88c18d854b880",
+					"jsonFile" : "target-Using_Option-Debug-91ee14b2bae47ffb8c3d.json",
+					"name" : "Using_Option",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "arithmetic::@5ecef1a49c8ab9b1b6b0",
+					"jsonFile" : "target-arithmetic-Debug-678f9a246a8c54909d14.json",
+					"name" : "arithmetic",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/osmar/OneDrive/Projects/Learning_CMake/out/build/x64-Debug",
+		"source" : "C:/Users/osmar/OneDrive/Projects/Learning_CMake"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

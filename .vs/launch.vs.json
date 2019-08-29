@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "Create_a_exe_and_lib.exe (Create_a_exe_and_lib\\Create_a_exe_and_lib.exe)",
+      "name": "Create_a_exe_and_lib.exe (Create_a_exe_and_lib\\Create_a_exe_and_lib.exe)"
+    }
+  ]
+}

@@ -8,9 +8,9 @@ During my journey of learning language c, I went through various compilation met
 This is a small project with some of the main techniques applied to cmake during compilation of an executable, they are functional in windows, linux and mac, there are 3 examples in this repository:
 <blockquote>
 <ul>
-    <li><a href="www.google.com.br">Executable</a></li>
-    <li><a href="www.google.com.br">Executable + libs</a></li>
-    <li><a href="www.google.com.br">Executable + libs with conditions</a></li>
+    <li><a href="https://github.com/JuniorTrojilio/Learning_CMake/tree/master/Create_Executable">Executable</a></li>
+    <li><a href="https://github.com/JuniorTrojilio/Learning_CMake/tree/master/Create_a_exe_and_lib">Executable + libs</a></li>
+    <li><a href="https://github.com/JuniorTrojilio/Learning_CMake/tree/master/Conditional_Construct">Executable + libs with conditions</a></li>
 </ul>
 </blockquote>
 

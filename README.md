@@ -11,6 +11,7 @@ This is a small project with some of the main techniques applied to cmake during
     <li><a href="https://github.com/JuniorTrojilio/Learning_CMake/tree/master/Create_Executable">Executable</a></li>
     <li><a href="https://github.com/JuniorTrojilio/Learning_CMake/tree/master/Create_a_exe_and_lib">Executable + libs</a></li>
     <li><a href="https://github.com/JuniorTrojilio/Learning_CMake/tree/master/Conditional_Construct">Executable + libs with conditions</a></li>
+    <li><a href="https://github.com/JuniorTrojilio/Learning_CMake/tree/master/Using_Option">Using Options</a>
 </ul>
 </blockquote>
 
